@@ -1,0 +1,6 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+HCSR04 ultrasonic sensor
+HCSR04 ultrasonic distance sensor
+LiquidCrystal I2C
